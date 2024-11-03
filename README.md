@@ -10,6 +10,7 @@ This repository features a collection of generative AI applications designed to 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Note](#note-on-model-output)
 
 ## Project Overview
 
