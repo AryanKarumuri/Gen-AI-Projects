@@ -74,6 +74,18 @@ Contributions are welcome! If you'd like to add your own generative AI project o
 
 Note: Please ensure that your contributions align with the project's goals and maintain a high standard of quality.
 
+## Note on Model Output
+
+The model generates responses based on learned patterns from a large dataset, but there are important considerations:
+
+- **Accuracy Uncertainty**: The model may not always provide correct answers, as its responses are probabilistic and context-dependent.
+
+- **Data Dependency**: The quality of output relies on the training data. Gaps or outdated information in the data can affect accuracy.
+
+- **Version Variability**: Different model versions may produce varying results due to changes in architecture and training.
+
+Users should critically evaluate the outputs and verify information from reliable sources, especially for significant topics.
+
 ## License:
 
 This repository is licensed under the MIT License. See the ***LICENSE*** file for more information.
