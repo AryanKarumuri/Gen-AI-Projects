@@ -1,3 +1,7 @@
+torch
 transformers
 protobuf
 sentencepiece
+reportlab 
+tabulate 
+pypdf
