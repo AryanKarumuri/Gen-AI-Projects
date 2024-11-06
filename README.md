@@ -9,14 +9,17 @@ This repository features a collection of generative AI applications designed to 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Note](#note-on-model-output)
+- [License](#license)
+
 
 ## Project Overview
 
 This repository showcases a variety of generative AI applications, each designed to illustrate different aspects and capabilities of AI technology. Projects may include:
 
-- Text generation applications
+- Text summarization projects
+- Text generation projects
+- Text classification projects
 - Image synthesis models
 - Code generation tools, etc.,
 
@@ -30,6 +33,7 @@ Each project may utilize a range of technologies and frameworks, including but n
 - TensorFlow
 - PyTorch
 - Groq API
+- Google Gemini API
 - Hugging Face Transformers
 - Streamlit
 - Gradio
