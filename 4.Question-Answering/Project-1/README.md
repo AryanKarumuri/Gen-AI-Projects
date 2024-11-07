@@ -38,7 +38,7 @@ Make sure to install the dependencies using the below command.
     [API_KEY]
     gemini_api_key = "your_api_key_here"
   ```
-**Note:** Here in this repository, you won't find the `secrets.toml` since I made the code deployed on Streamlit. If you want to deploy the code on Streamlit, check [Gen-AI-Projects README.md](../README.md)
+**Note:** Here in this repository, you won't find the `secrets.toml` since I made the code deployed on Streamlit. If you want to deploy the code on Streamlit, check [Gen-AI-Projects README.md](../../README.md)
 
 
 ### Step-4: Running the App
