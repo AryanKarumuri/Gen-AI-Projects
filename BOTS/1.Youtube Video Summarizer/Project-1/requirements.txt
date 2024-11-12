@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+langchain
+langchain_community
+youtube-transcript-api
