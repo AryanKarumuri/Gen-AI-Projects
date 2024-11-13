@@ -25,7 +25,7 @@ This application is a YouTube video summarizer that extracts the transcript of a
     ```
 3. Obtain your [Google API Key](https://aistudio.google.com/welcome) and replace `"your_api_key"` in the code.
 
-**Note:** Want to know the process for API_KEY generation, refer [Gen-AI-Projects README.md](../../README.md#api-key-generation-guide)
+**Note:** Want to know the process for API_KEY generation, refer [Gen-AI-Projects README.md](../../../README.md#api-key-generation-guide)
 ## How to Run
 1. Clone or download the repository.
 2. Navigate to the project directory and run the Streamlit app:
