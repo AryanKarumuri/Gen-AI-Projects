@@ -1,0 +1,3 @@
+stremlit
+langchain
+langchain_groq
