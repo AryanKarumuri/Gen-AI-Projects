@@ -76,25 +76,6 @@ This guide walks you through the steps to generate API keys for **Groq**, **Hugg
    - Click on **Create new secret key**.
    - A new API key will be generated. Copy and save it securely. This key will be used to interact with OpenAI's models.
 
-## Getting Started🚀
-
-To get started with the projects in this repository, follow these steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/gen-ai-projects.git
-   cd gen-ai-projects
-
-2. **Install Dependencies:**
-   Each project may have its own set of dependencies. Navigate to the specific project directory and install the necessary libraries. For example:
-   ```bash
-   cd project-name
-   pip install -r requirements.txt
-
-3. **Run the Application:**
-   Follow the instructions in the respective project directory for running the application. This may involve executing a script or starting a web server.
-
-
 ## Deploying on Streamlit
 
 1. Visit [Streamlit](https://streamlit.io/).
@@ -114,6 +95,26 @@ To get started with the projects in this repository, follow these steps:
     OPENAI_API_KEY="your_openai_api_key"
     ```
 8. Click on **Deploy** to launch your app.
+
+   
+## Getting Started🚀
+
+To get started with the projects in this repository, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/gen-ai-projects.git
+   cd gen-ai-projects
+
+2. **Install Dependencies:**
+   Each project may have its own set of dependencies. Navigate to the specific project directory and install the necessary libraries. For example:
+   ```bash
+   cd project-name
+   pip install -r requirements.txt
+
+3. **Run the Application:**
+   Follow the instructions in the respective project directory for running the application. This may involve executing a script or starting a web server.
+
 
 ## Contributing🤝
 
