@@ -1,4 +1,4 @@
-# Gen AI Projects Repository📁
+# Gen AI Repository📁
 
 This repository features a collection of generative AI applications designed to showcase the capabilities of AI across various domains. Explore projects that generate text, images, music, and code, each demonstrating innovative uses of generative technology. Contribute your own projects and experiment with the potential of AI!
 
