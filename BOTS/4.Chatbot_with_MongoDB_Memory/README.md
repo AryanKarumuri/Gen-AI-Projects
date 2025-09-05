@@ -46,6 +46,16 @@ python main.py
 
 4. Type 'exit' or 'quit' to end the conversation
 
+## Output
+
+![Chatbot with MongoDB Memory](assets/output.png)
+
+The image above demonstrates a sample conversation with the chatbot, showcasing:
+- Identifies whether a user is new or returning based on their unique 'user_id'.
+- Leverages memory retention and retrieval to provide accurate and context-aware responses.
+- Maintains a natural, conversational flow with dynamic context tracking across interactions.
+- Integrates MongoDB-backed persistent storage for scalable and reliable user data management.
+
 ## Architecture
 
 The chatbot uses:
