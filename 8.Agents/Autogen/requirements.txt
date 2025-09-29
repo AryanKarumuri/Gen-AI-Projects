@@ -1,0 +1,6 @@
+pydantic
+dotenv
+autogen-core
+autogen-agentchat
+autogen-ext[openai]
+autogen-agentchat[gemini,retrievechat,lmm]~=0.2
