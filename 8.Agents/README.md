@@ -53,4 +53,4 @@ This directory will be expanded to include other popular agent frameworks such a
 
 Each agent framework has its own strengths and ideal use cases. As you explore different frameworks, you'll discover which ones are best suited for your specific needs. The prerequisites covered in this directory will help you better understand and work with any of these frameworks.
 
-Feel free to start with any framework after completing the prerequisites. Each framework's directory will contain its own README with specific setup instructions and requirements.
+Feel free to start with any framework after completing the prerequisites.
