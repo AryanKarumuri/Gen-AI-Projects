@@ -1,0 +1,4 @@
+crewai==1.6.1
+litellm==1.80.9
+ddgs==9.9.3
+streamlit==1.52.1
