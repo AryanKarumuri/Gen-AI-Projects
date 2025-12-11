@@ -132,7 +132,7 @@ if submit:
                     mime="text/markdown"
                 )
 
-                # Extract individual task outputs
+                # Extract individual task outputs for debugging
                 if hasattr(result, "tasks_output") and result.tasks_output:
                     st.write("✅ All agents completed successfully!")
                     
