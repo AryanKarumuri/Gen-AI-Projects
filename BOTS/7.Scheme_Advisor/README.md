@@ -4,18 +4,6 @@ An intelligent chatbot application that helps MSMEs (Micro, Small, and Medium En
 
 ![MSME Scheme Advisor Interface](assets/interface_tab-1.png)
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Dependencies](#dependencies)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 📖 Overview
 
 The MSME Scheme Advisor is a Retrieval-Augmented Generation (RAG) application that leverages large language models and vector databases to provide accurate, context-aware recommendations for MSME schemes. It processes PDF documents containing scheme information and allows users to query this information through a natural language interface.
