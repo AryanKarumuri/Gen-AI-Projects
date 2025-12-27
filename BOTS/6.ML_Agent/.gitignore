@@ -137,10 +137,3 @@ dmypy.json
 # OS
 .DS_Store
 Thumbs.db
-
-# Project specific
-*.pkl
-*.joblib
-*.model
-artifacts/model/
-*.csv
