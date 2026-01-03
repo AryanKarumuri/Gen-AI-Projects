@@ -27,11 +27,14 @@ Pydantic is extensively used in agent frameworks for configuration management an
    - Location: `/Autogen`
    - A framework for building multi-agent systems with LLMs
    - Includes examples of basic usage, customization, and advanced features
-   - See the dedicated README in the AutoGen directory for specific details
+
+2. **Langchain** 
+   - Location: `/Langchain`
+   - A framework for developing applications powered by large language models (LLMs)
+   - Includes examples covering core concepts like model integration, message handling, tools, and structured output
 
 ### Coming Soon
 This directory will be expanded to include other popular agent frameworks such as:
-- LangChain Agents
 - Langgraph
 - CrewAI
 - SmolAgents
@@ -52,5 +55,11 @@ This directory will be expanded to include other popular agent frameworks such a
 ## Note
 
 Each agent framework has its own strengths and ideal use cases. As you explore different frameworks, you'll discover which ones are best suited for your specific needs. The prerequisites covered in this directory will help you better understand and work with any of these frameworks.
+
+## Additional Resources
+
+- Each framework directory contains specific `requirements.txt` files for easy setup
+- Notebooks are designed to be run sequentially to build understanding progressively
+- Check individual notebook files for detailed explanations and code examples
 
 Feel free to start with any framework after completing the prerequisites.
