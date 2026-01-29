@@ -32,10 +32,6 @@ The Streamlit interface provides an intuitive way to upload, process, and manage
 - [API Documentation](#api-documentation)
 - [Configuration](#configuration)
 - [Project Structure](#project-structure)
-- [Development](#development)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🚀 Installation
 
