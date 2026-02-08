@@ -1,0 +1,9 @@
+huggingface_hub
+python-dotenv
+Pillow
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+streamlit
+requests
