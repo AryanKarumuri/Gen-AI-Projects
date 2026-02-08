@@ -33,7 +33,9 @@ Image_generation/
 ├── streamlit_app.py         # Streamlit frontend
 ├── assets                   # Sample UI
 ├── requirements.txt         # Python dependencies
-└── README.md               # This file
+├── outputs                  # Sample outputs
+├── test.py                  # Simple test file
+└── README.md                # This file
 ```
 
 ## Installation
