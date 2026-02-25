@@ -1,6 +1,6 @@
-# AI Agents
+# Agentic Frameworks
 
-This directory explores various AI agent frameworks and their implementations. AI agents are autonomous or semi-autonomous software entities that can perceive their environment, make decisions, and take actions to achieve specific goals. This section will cover different frameworks and approaches to building and working with AI agents.
+This directory explores various Agentic Frameworks and their implementations. Agentic frameworks provide the scaffolding and tools necessary to build AI agents that can reason, plan, and execute tasks autonomously. These frameworks abstract away the complexities of managing LLM interactions, state, and tool usage, allowing developers to focus on defining agent behaviors and workflows.
 
 ## Prerequisites First!
 
@@ -19,7 +19,7 @@ Located in `Prerequisites/Pydantic/`:
 
 Pydantic is extensively used in agent frameworks for configuration management and data validation.
 
-## Agent Frameworks
+## Frameworks Overview
 
 ### Current Implementations
 
@@ -33,11 +33,16 @@ Pydantic is extensively used in agent frameworks for configuration management an
    - A framework for developing applications powered by large language models (LLMs)
    - Includes examples covering core concepts like model integration, message handling, tools, and structured output
 
+3. **LangGraph**
+   - Location: `/LangGraph`
+   - A library for building stateful, multi-actor applications with LLMs
+   - Focuses on creating cyclical graphs for agent workflows, enabling complex patterns like loops and branching
+
 ### Coming Soon
 This directory will be expanded to include other popular agent frameworks such as:
-- Langgraph
 - CrewAI
 - SmolAgents
+- Langflow
 - And more...
 
 ## Getting Started
