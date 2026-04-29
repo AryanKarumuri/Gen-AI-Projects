@@ -1,0 +1,35 @@
+# Virtual environments
+token_venv/
+venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment variables
+.env
+.env.local
+
+# Streamlit local config
+.streamlit/
+
+# Hugging Face cache (downloaded tokenizers)
+~/.cache/huggingface/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
